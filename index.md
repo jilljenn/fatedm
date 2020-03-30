@@ -1,4 +1,4 @@
-We host a 1-day workshop colocated with the [EDM 2020](http://educationaldatamining.org/edm2020/) conference.
+FATED is a 1-day workshop colocated with the [EDM 2020](http://educationaldatamining.org/edm2020/) conference.
 
 # Motivation
 
@@ -12,7 +12,7 @@ The goal of this workshop is to develop a focus on Fairness, Accountability, & T
 
 # Venue
 
-The FATED workshop will be held in Ifrane, Morocco.
+The FATED workshop will be held virtually in conjunction with EDM (details to be determined).
 
 # Important Dates
 
@@ -42,7 +42,7 @@ Full papers
 
 :    Between 3 and 5 pages including references
 
-Submissions can be made through [EasyChair](https://easychair.org/my/conference?conf=fated2020).
+Submissions will be made through [EasyChair](https://easychair.org/conferences/?conf=fated2020), using the EDM paper [Word](http://educationaldatamining.org/edm2020/wp-content/uploads/sites/4/2019/09/edm_word_template2020.doc) or [LaTeX](http://educationaldatamining.org/edm2020/wp-content/uploads/sites/4/2019/09/edm_submission2020.zip) template.
 
 # Workshop Chairs
 

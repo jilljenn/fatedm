@@ -47,14 +47,14 @@ Submissions will be made through [EasyChair](https://easychair.org/conferences/?
 # Workshop Chairs
 
 Nigel Bosch (University of Illinois at Urbana-Champaign)  
-Christopher Brooks  
+Christopher Brooks (University of Michigan)  
 Shayan Doroudi (University of California Irvine)  
-Josh Gardner  
+Josh Gardner (University of Washington)  
 Kenneth Holstein (Carnegie Mellon University)  
-Andrew Lan  
+Andrew Lan (University of Massachusetts at Amherst)  
 Collin Lynch (North Carolina State University)  
-Beverly Park Woolf  
+Beverly Park Woolf (University of Massachusetts at Amherst)  
 Mykola Pechenizkiy (Eindhoven University of Technology, The Netherlands)  
 Steven Ritter (Carnegie Learning)  
 Jill-Jênn Vie (Inria Lille, France)  
-Renzhe Yu
+Renzhe Yu (University of California, Irvine)

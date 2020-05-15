@@ -16,15 +16,15 @@ The FATED workshop will be held virtually in conjunction with EDM (details to be
 
 # Important Dates
 
-May 15 – [AoE](https://www.timeanddate.com/time/zones/aoe)
+June 15 – [AoE](https://www.timeanddate.com/time/zones/aoe)
 
-:   Submission of original research & position papers
+:   Submission of original research & position papers -- **Extended deadline**
 
-June 1
+June 22
 
 :   Notification for acceptance
 
-June 15
+June 29
 
 :   Camera-ready version due
 

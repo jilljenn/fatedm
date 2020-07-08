@@ -10,6 +10,26 @@ This rapidly-growing environment raises a number of crucial ethical, research, a
 
 The goal of this workshop is to develop a focus on Fairness, Accountability, & Transparency in Educational Data (FATED).  This will include discussion of open issues in EDM, and prior research on fairness accountability and transparency in machine learning systems.  It will also include the presentation of novel peer-reviewed research by the EDM community, and a practical tutorial on some methods for assessing bias in trained models.  Finally we will work to develop near and long-term goals for the community.
 
+# Program
+
+Pacific   |  Eastern  |  Morocco  |  Central Europe  |  Japan    |
+----------|-----------|-----------|------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------
+UTC-7        |  UTC-4       |  UTC+1        |  UTC+2               |  UTC+9        |
+10:00 AM  |  1:00 PM  |  6:00 PM  |  7:00 PM         |  2:00 AM  |  Opening
+10:30 AM  |  1:30 PM  |  6:30 PM  |  7:30 PM         |  2:30 AM  |  Evaluation of Fairness Trade-offs In Predicting Student Success<br />Hansol Lee and Rene Kizilcec
+10:50 AM  |  1:50 PM  |  6:50 PM  |  7:50 PM         |  2:50 AM  |  A Natural Language Approach to Early Forecasting of Undergraduates' Degrees<br />Alexander Wang, David Lang, Andreas Paepcke and Mitchell Stevens
+          |           |           |                  |           |  10 min break
+11:20 AM  |  2:20 PM  |  7:20 PM  |  8:20 PM         |  3:20 AM  |  How WhatsApp makes Educational Data Mining difficult in West African universities<br />Romaric Bassole, Frédéric T. Ouedraogo and Laurence Capus
+11:40 AM  |  2:40 PM  |  7:40 PM  |  8:40 PM         |  3:40 AM  |  Towards Data-Driven Affirmative Action Policies under Uncertainty<br />Corinna Hertweck, Carlos Castillo and Michael Mathioudakis
+12:00 PM  |  3:00 PM  |  8:00 PM  |  9:00 PM         |  4:00 AM  |  Technical Democracy in Educational Decision Making<br />Kirsty Kitto, Kalervo Gulson, Greg Thompson and Leonie Payne
+          |           |           |                  |           |  10 min break
+12:30 PM  |  3:30 PM  |  8:30 PM  |  9:30 PM         |  4:30 AM  |  Open Discussion
+1:00 PM   |  4:00 PM  |  9:00 PM  |  10:00 PM        |  5:00 AM  |  End
+
+# Registration
+
+You can register [at the bottom of this page](https://educationaldatamining.org/edm2020/registration/) by selecting **Conference Attendee**.
+
 # Venue
 
 The FATED workshop will be held virtually in conjunction with EDM (details to be determined).

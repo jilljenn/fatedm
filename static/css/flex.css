@@ -1,0 +1,27 @@
+.responsive {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.keynote {
+    width: 300px;
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-content .responsive img {
+    max-width: 200px;
+}
+
+table {
+	font-size: 0.8em;
+}
+
+.main-content table th, .main-content table td {
+	padding: 0.5em;
+}

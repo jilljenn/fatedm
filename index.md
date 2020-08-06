@@ -16,7 +16,7 @@ The goal of this workshop is to develop a focus on Fairness, Accountability, & T
 * [Lee & Kizilcec. *Evaluation of Fairness Trade-offs in Predicting Student Success*](./presentations/lee_kizilcec_FATED2020.pptx)
 * [Romaric, Ouedraogo, & Capus. *How WhatsApp makes Educational Data Mining difficult in West African universities*](./presentations/romaric_et_al_FATED2020.pdf)
 * [Kitto, Gulson, Thompson, & Payne. *Technical Democracy in Educational Decision Making*](./presentations/kitto_et_al_FATED2020.pptx)
-* [Hertwick, Castillo, & Mathioudakis. *Towards Data-Driven Affirmative Action Policies under Uncertainty*](./presentations/hertweck_et_al_FATED2020.pptx)
+* [Hertwick, Castillo, & Mathioudakis. *Towards Data-Driven Affirmative Action Policies under Uncertainty*](./presentations/hertweck_et_al_FATED2020.pdf)
 
 # Program
 

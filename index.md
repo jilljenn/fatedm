@@ -10,6 +10,14 @@ This rapidly-growing environment raises a number of crucial ethical, research, a
 
 The goal of this workshop is to develop a focus on Fairness, Accountability, & Transparency in Educational Data (FATED).  This will include discussion of open issues in EDM, and prior research on fairness accountability and transparency in machine learning systems.  It will also include the presentation of novel peer-reviewed research by the EDM community, and a practical tutorial on some methods for assessing bias in trained models.  Finally we will work to develop near and long-term goals for the community.
 
+# Presentation Slides for Accepted Papers
+
+* [Wang, Lang, Paepcke, & Stevens. *A Natural-Language Approach to Early Forecasting of Undergraduate Majors: An Investigation of Efficacy and Bias*](./presentations/wang_et_al_FATED2020.pptx)
+* [Lee & Kizilcec. *Evaluation of Fairness Trade-offs in Predicting Student Success*](./presentations/lee_kizilcec_FATED2020.pptx)
+* [Romaric, Ouedraogo, & Capus. *How WhatsApp makes Educational Data Mining difficult in West African universities*](./presentations/romaric_et_al_FATED2020.pdf)
+* [Kitto, Gulson, Thompson, & Payne. *Technical Democracy in Educational Decision Making*](./presentations/kitto_et_al_FATED2020.pptx)
+* [Hertwick, Castillo, & Mathioudakis. *Towards Data-Driven Affirmative Action Policies under Uncertainty*](./presentations/hertweck_et_al_FATED2020.pptx)
+
 # Program
 
 Pacific   |  Eastern  |  Morocco  |  Central Europe  |  Japan    |
